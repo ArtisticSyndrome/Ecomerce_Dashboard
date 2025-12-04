@@ -35,6 +35,3 @@ This project showcases the creation of a dynamic sales dashboard for e-commerce 
    - Overall Profit Margin %
 4. Add visuals (KPI cards, charts, slicers) as described in the project overview.
 5. Format the dashboard for better readability.
-
-## Author
-- Vedant Wagh
