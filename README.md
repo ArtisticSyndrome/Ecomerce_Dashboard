@@ -37,4 +37,4 @@ This project showcases the creation of a dynamic sales dashboard for e-commerce 
 5. Format the dashboard for better readability.
 
 ## Author
-- Your Name
+- Vedant Wagh
